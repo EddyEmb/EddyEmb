@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EddyEmb
-- 👀 I’m interested in providing solutions for day to day problems(or no) using programing languages
+- 👀 I’m interested in providing solutions for day-to-day problems(or not) using programming languages
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on social projects that automatize daily tasks
+- 💞️ I’m looking to collaborate on social projects that automate daily tasks
 - 📫 How to reach me on my email: edimilsonbaltaza@gmail.com
 
 <!---
